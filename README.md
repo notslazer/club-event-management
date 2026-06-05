@@ -32,4 +32,4 @@ To run this project locally, follow these steps:
 5. Open `http://localhost:3000` in your browser.
 
 ## Deployment Link
-Live Application: 
+Live Application: [https://club-event-management1.vercel.app/](https://club-event-management1.vercel.app/)
