@@ -15,7 +15,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-    git clone <your-github-repo-url>
+        git clone [<your-github-repo-url>](https://github.com/notslazer/club-event-management.git)
     ```
 2. Navigate to the project directory:
     ```bash
@@ -30,6 +30,3 @@ To run this project locally, follow these steps:
         npm run dev
     ```
 5. Open `http://localhost:3000` in your browser.
-
-## Deployment Link
-Live Application: [https://club-event-management1.vercel.app/](https://club-event-management1.vercel.app/)
