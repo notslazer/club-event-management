@@ -14,7 +14,7 @@ To run this project locally, follow these steps:
 
 1. Clone the repository:
     ```bash
-        git clone [<your-github-repo-url>](https://github.com/notslazer/club-event-management.git)
+        git clone https://github.com/notslazer/club-event-management.git
     ```
 2. Navigate to the project directory:
     ```bash
