@@ -8,7 +8,6 @@ A responsive and modern frontend platform for managing club events, built for th
 * **Styling:** Tailwind CSS
 * **UI Components:** Shadcn UI (Radix UI)
 * **Form Handling & Validation:** React Hook Form + Zod
-* **Deployment:** Vercel
 
 ## Project Setup Instructions
 To run this project locally, follow these steps:
